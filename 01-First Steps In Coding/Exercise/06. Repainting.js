@@ -15,17 +15,5 @@ function repainting(input){
   console.log(price+laborPrice)
 }
 
-repainting(["10",
-
-  "11",
-
-  "4",
-
-  "8"])
-repainting(["5",
-
-  "10",
-
-  "10",
-
-  "1"])
+repainting(["10","11","4","8"])
+repainting(["5","10","10","1"])
